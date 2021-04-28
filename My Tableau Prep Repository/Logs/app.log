@@ -1,0 +1,127 @@
+{"ts":"2021-04-28T12:47:19.955","sev":"info","k":"app-config","v":"appDir: C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app","pid":10376}
+{"ts":"2021-04-28T12:47:19.955","sev":"info","k":"app-config","v":"sampleFlowsDirectory: C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\help\\Samples","pid":10376}
+{"ts":"2021-04-28T12:47:19.955","sev":"info","k":"app-config-env","v":{"appDir":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app","iconDir":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app\\icons","isDevEnlistment":false,"restApiJarPath":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app\\loom-rest-api-1.0-SNAPSHOT.jar","sampleFlowsDirectory":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\help\\Samples"},"pid":10376}
+{"ts":"2021-04-28T12:47:19.956","sev":"info","k":"app-config-raw-command-line","v":{"argv":["","C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\Tableau Prep Builder.exe","--tfl","C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl"]},"pid":10376}
+{"ts":"2021-04-28T12:47:19.957","sev":"info","k":"app-config","v":"Setting TFL file to C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl","pid":10376}
+{"ts":"2021-04-28T12:47:19.958","sev":"info","k":"app-config","v":"Setting thumbprint file to C:\\Users\\chast\\AppData\\Local\\Temp\\tmp-10376A1y0fJdvD87L","pid":10376}
+{"ts":"2021-04-28T12:47:19.958","sev":"info","k":"app-config-command-line","v":{"settings":{"tflFile":"C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl","thumbprintFile":"C:\\Users\\chast\\AppData\\Local\\Temp\\tmp-10376A1y0fJdvD87L"},"settingsFilePaths":[],"quit":false},"pid":10376}
+{"ts":"2021-04-28T12:47:19.960","sev":"info","k":"app-utils","v":"build version: 21.13.21.0326.1015","pid":10376}
+{"ts":"2021-04-28T12:47:19.960","sev":"info","k":"app-utils","v":"getBuildVersion = 21.13.21.0326.1015","pid":10376}
+{"ts":"2021-04-28T12:47:19.960","sev":"info","k":"app-utils","v":"isLocallyPackaged = false","pid":10376}
+{"ts":"2021-04-28T12:47:19.960","sev":"info","k":"app-config","v":"Using external settings file settings-21.13.21.0326.1015.json","pid":10376}
+{"ts":"2021-04-28T12:47:19.963","sev":"info","k":"app-config-read-settings-file","v":{"settingsFilePath":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app\\default-settings.json","settings":{"featureFlags":{"accessConnector":true,"addCredentials":true,"adpCustomDataRole":true,"adpFuzzyMatchSuggestion":true,"adpPivotSuggestion":true,"adpToolbarSuggestions":true,"alibabaMaxComputeConnector":true,"analyticsSupport":true,"anidTelemetry":true,"annotationSelectionRevamp":true,"auditFlow":false,"autoUpdate":false,"autosave":true,"binningAnalyzerCreator":true,"britishEnglish":true,"bulkRename":false,"connectToDialog":true,"connectionDialogOAuth":true,"copyPasteNodeProperties":true,"customFiscalYear":true,"customRoles":false,"dataDictionary":false,"dataSourceWithUserReferenceAsInput":true,"databaseVariablesAndParameters":true,"datagridPlaceholders":true,"datasourceInputNode":true,"exportAsVersion":false,"fieldFilteringGridToDataGridConversion":false,"findAndReplaceValues":false,"firstFiveMinutes":true,"flowPermissions":false,"flowTags":true,"flowThumbnails":true,"flowlets":true,"futureFeature":false,"fuzzyClusteringFastMatch":true,"fuzzyClusteringSlider":true,"fuzzyMatchCDR":true,"generateNewRows":false,"handleBadlyEncodedUIData":false,"helpLinkLibrary":true,"highlightConnections":true,"impalaConnector":true,"improvedFeedback":true,"inAppFeedback":false,"incrementalRefresh":true,"incrementalRefreshInputUnion":false,"initialSqlFlowNameParameter":true,"initialSqlTableauAppParameter":true,"initialSqlTableauVersionParameter":true,"inputNullFilter":false,"italian":true,"joinClauseDrawingStatuses":false,"kyvosConnector":true,"lodCalcs":true,"multiRowCalcs":true,"oauthServiceEnabled":true,"ogrConnector":true,"outputFieldMatching":true,"outputFieldMatchingInteractive":false,"outputToDatabase":true,"outputToGoogleBigQuery":false,"outputToTeradata":true,"panicDialogOnWeb":true,"pdfConnector":true,"pivotOnMultiSelect":true,"playMovie":true,"pluginConnectorRegistry":true,"predictionNode":true,"primaryKeyValidation":false,"profilePaneCardMotionAnimation":false,"profilePaneKeyboardNavigation":false,"publishedConnections":false,"quboleConnector":true,"recipeNoChangesApplied":false,"refreshDatasource":false,"retireOutputToTde":true,"richConditionFilter":false,"salesforceConnector":true,"scriptExtensibilityNewMenu":true,"searchAcrossFlow":false,"serverStickiness":true,"sharedContextMenus":false,"sharepointListsConnector":false,"showHideColumns":false,"spatialTypeSupported":true,"superTransformNodes":true,"traditionalChinese":true,"transformationToasts":false,"webVersioning":false,"writeToExcel":true,"predictionNodeOnServer":false},"barChartMotionAnimationEnabled":true,"allowMultipleInstances":false}},"pid":10376}
+{"ts":"2021-04-28T12:47:19.963","sev":"info","k":"app-config","v":"Settings file doesn't exist: C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Settings\\settings-21.13.21.0326.1015.json","pid":10376}
+{"ts":"2021-04-28T12:47:19.966","sev":"info","k":"app-config-settings","v":{"featureFlags":{"accessConnector":true,"addCredentials":true,"adpCustomDataRole":true,"adpFuzzyMatchSuggestion":true,"adpPivotSuggestion":true,"adpToolbarSuggestions":true,"alibabaMaxComputeConnector":true,"analyticsSupport":true,"anidTelemetry":true,"annotationSelectionRevamp":true,"auditFlow":false,"autoUpdate":false,"autosave":true,"binningAnalyzerCreator":true,"britishEnglish":true,"bulkRename":false,"connectToDialog":true,"connectionDialogOAuth":true,"copyPasteNodeProperties":true,"customFiscalYear":true,"customRoles":false,"dataDictionary":false,"dataSourceWithUserReferenceAsInput":true,"databaseVariablesAndParameters":true,"datagridPlaceholders":true,"datasourceInputNode":true,"exportAsVersion":false,"fieldFilteringGridToDataGridConversion":false,"findAndReplaceValues":false,"firstFiveMinutes":true,"flowPermissions":false,"flowTags":true,"flowThumbnails":true,"flowlets":true,"futureFeature":false,"fuzzyClusteringFastMatch":true,"fuzzyClusteringSlider":true,"fuzzyMatchCDR":true,"generateNewRows":false,"handleBadlyEncodedUIData":false,"helpLinkLibrary":true,"highlightConnections":true,"impalaConnector":true,"improvedFeedback":true,"inAppFeedback":false,"incrementalRefresh":true,"incrementalRefreshInputUnion":false,"initialSqlFlowNameParameter":true,"initialSqlTableauAppParameter":true,"initialSqlTableauVersionParameter":true,"inputNullFilter":false,"italian":true,"joinClauseDrawingStatuses":false,"kyvosConnector":true,"lodCalcs":true,"multiRowCalcs":true,"oauthServiceEnabled":true,"ogrConnector":true,"outputFieldMatching":true,"outputFieldMatchingInteractive":false,"outputToDatabase":true,"outputToGoogleBigQuery":false,"outputToTeradata":true,"panicDialogOnWeb":true,"pdfConnector":true,"pivotOnMultiSelect":true,"playMovie":true,"pluginConnectorRegistry":true,"predictionNode":true,"primaryKeyValidation":false,"profilePaneCardMotionAnimation":false,"profilePaneKeyboardNavigation":false,"publishedConnections":false,"quboleConnector":true,"recipeNoChangesApplied":false,"refreshDatasource":false,"retireOutputToTde":true,"richConditionFilter":false,"salesforceConnector":true,"scriptExtensibilityNewMenu":true,"searchAcrossFlow":false,"serverStickiness":true,"sharedContextMenus":false,"sharepointListsConnector":false,"showHideColumns":false,"spatialTypeSupported":true,"superTransformNodes":true,"traditionalChinese":true,"transformationToasts":false,"webVersioning":false,"writeToExcel":true,"predictionNodeOnServer":false},"barChartMotionAnimationEnabled":true,"allowMultipleInstances":false,"recordTelemetry":true,"tflFile":"C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl","thumbprintFile":"C:\\Users\\chast\\AppData\\Local\\Temp\\tmp-10376A1y0fJdvD87L"},"pid":10376}
+{"ts":"2021-04-28T12:47:19.966","sev":"info","k":"single-instance-app","v":"Attempting to get singleInstaceLock","pid":10376}
+{"ts":"2021-04-28T12:47:19.968","sev":"info","k":"single-instance-app","v":"Got the lock. This is the main process.","pid":10376}
+{"ts":"2021-04-28T12:47:19.968","sev":"info","k":"app-start","v":"Installing test hooks","pid":10376}
+{"ts":"2021-04-28T12:47:19.968","sev":"info","k":"test-hooks","v":"installing testApiHook listener on IPC channel: testApi/quit-app","pid":10376}
+{"ts":"2021-04-28T12:47:19.968","sev":"info","k":"app-start","v":{"version":"21.13.21.0326.1015","pid":10376},"pid":10376}
+{"ts":"2021-04-28T12:47:20.126","sev":"info","k":"app-ready","v":"","pid":10376}
+{"ts":"2021-04-28T12:47:20.129","sev":"info","k":"init-settings-cache","v":{"persistentSettingsCache":{"repositoryLanguage":"en_US"}},"pid":10376}
+{"ts":"2021-04-28T12:47:20.129","sev":"info","k":"app-start","v":"Persistent settings have been initialized. Detected this is not the first launch of this version","pid":10376}
+{"ts":"2021-04-28T12:47:20.129","sev":"info","k":"localization","v":"OS UI locale is en-US","pid":10376}
+{"ts":"2021-04-28T12:47:20.129","sev":"info","k":"localization","v":"Using OS UI locale because no app language has been set.","pid":10376}
+{"ts":"2021-04-28T12:47:20.129","sev":"info","k":"app-start","v":"App is using locale en_US for text","pid":10376}
+{"ts":"2021-04-28T12:47:20.132","sev":"info","k":"app-start","v":"Timebomb is set to: false","pid":10376}
+{"ts":"2021-04-28T12:47:20.132","sev":"info","k":"app-start","v":"Repository language is en_US","pid":10376}
+{"ts":"2021-04-28T12:47:20.147","sev":"info","k":"repository","v":"Repository location is C:\\Users\\chast\\Documents\\My Tableau Prep Repository","pid":10376}
+{"ts":"2021-04-28T12:47:20.155","sev":"info","k":"app-start","v":"Datasources folder is C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Datasources","pid":10376}
+{"ts":"2021-04-28T12:47:20.155","sev":"info","k":"app-start","v":"Recommendations are enabled","pid":10376}
+{"ts":"2021-04-28T12:47:20.155","sev":"info","k":"app-start","v":"Compatibility Mode is enabled","pid":10376}
+{"ts":"2021-04-28T12:47:20.262","sev":"info","k":"splash-screen","v":{},"pid":10376}
+{"ts":"2021-04-28T12:47:20.287","sev":"info","k":"backend-process-manager-client","v":"starting BackendProcessManager...","pid":10376}
+{"ts":"2021-04-28T12:47:20.300","sev":"info","k":"backend-process-manager-client","v":{"msg":"BackedProcessManager started","pid":3656},"pid":10376}
+{"ts":"2021-04-28T12:47:20.300","sev":"info","k":"backend-process-manager-client","v":"sending configuration message","pid":10376}
+{"ts":"2021-04-28T12:47:20.481","sev":"info","k":"splash-screen","v":"dom-ready: Showing","pid":10376}
+{"ts":"2021-04-28T12:47:27.435","sev":"info","k":"backend-process-manager-client","v":{"msg":"received message from BackendProcessManager process","ipcMessage":{"type":"backend-start-success","backendConfig":{"port":52409}}},"pid":10376}
+{"ts":"2021-04-28T12:47:27.435","sev":"info","k":"app-start","v":"Started backend. Will send requests to https://127.0.0.1:52409/","pid":10376}
+{"ts":"2021-04-28T12:47:27.435","sev":"info","k":"app-start","v":"Querying to see if telemetry is enabled.","pid":10376}
+{"ts":"2021-04-28T12:47:27.435","sev":"info","k":"get-telemetry-enabled","v":{"msg":"checking if telemetry is enabled","backendRootUrl":"https://127.0.0.1:52409/"},"pid":10376}
+{"ts":"2021-04-28T12:47:27.732","sev":"info","k":"app-start","v":"Telemetry enabled? true","pid":10376}
+{"ts":"2021-04-28T12:47:27.732","sev":"info","k":"localization","v":"Querying to get os user locale.","pid":10376}
+{"ts":"2021-04-28T12:47:27.752","sev":"info","k":"localization","v":"OS user locale is en_US","pid":10376}
+{"ts":"2021-04-28T12:47:27.753","sev":"info","k":"app-start","v":"App is using locale en_US for formatting","pid":10376}
+{"ts":"2021-04-28T12:47:27.790","sev":"info","k":"app-start","v":"Checking if the product is licensed.","pid":10376}
+{"ts":"2021-04-28T12:47:33.081","sev":"info","k":"app-start","v":"Got license state trial-active","pid":10376}
+{"ts":"2021-04-28T12:47:33.081","sev":"info","k":"app-start","v":"License retrieved and window title updated.","pid":10376}
+{"ts":"2021-04-28T12:47:33.082","sev":"info","k":"licensing-window","v":"Setting license state","pid":10376}
+{"ts":"2021-04-28T12:47:33.082","sev":"info","k":"licensing-window","v":"Creating registration screen","pid":10376}
+{"ts":"2021-04-28T12:47:33.095","sev":"info","k":"licensing-window","v":"Loading https://127.0.0.1:52409/static/unlicensed.html?eyJhcGlLZXkiOiJhMmU1NTg5YjRjMTc3YWQ4ZTI5ZGIyNzI5Mjc1ODBkMDJjZDcwOTMzZDY1ZTE3M2Y2OTFhNzdhMGM2NGYzM2NiZTM2NGZlM2ZmODlkMzJlOTQ3MzZkMTQ4NTgwMDBlYTEiLCJpbml0aWFsU3RhdGUiOnsic3RhdGUiOjksImtleUV4cGlyZXNJbkRheXMiOjIsInJlZ2lzdHJhdGlvbk5lZWRlZCI6ZmFsc2UsImRlZmF1bHRMYmxtU2VydmVyIjoiIn0sImliYVN0YXR1cyI6ImVuYWJsZWQifQ== in the registration screen","pid":10376}
+{"ts":"2021-04-28T12:47:33.102","sev":"info","k":"splash-screen","v":"Hiding splash screen. Window Destroyed.","pid":10376}
+{"ts":"2021-04-28T12:47:40.018","sev":"info","k":"licensing-window","v":"Licensing succeeded. Waiting on possible cookie extraction.","pid":10376}
+{"ts":"2021-04-28T12:47:40.018","sev":"info","k":"licensing-window","v":"Licensing succeeded and finished cookie extraction.","pid":10376}
+{"ts":"2021-04-28T12:47:40.018","sev":"info","k":"app-start","v":"Checking if the product is licensed.","pid":10376}
+{"ts":"2021-04-28T12:47:40.050","sev":"info","k":"app-start","v":"Got license state trial-active","pid":10376}
+{"ts":"2021-04-28T12:47:40.056","sev":"info","k":"app-start","v":"Creating a PrepWindowManager to manage windows","pid":10376}
+{"ts":"2021-04-28T12:47:40.075","sev":"info","k":"prep-window-manager","v":"Opening file: C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl","pid":10376}
+{"ts":"2021-04-28T12:47:40.075","sev":"info","k":"prep-window-manager","v":"Checking if file is already open","pid":10376}
+{"ts":"2021-04-28T12:47:40.075","sev":"info","k":"prep-window-manager","v":"Opening a new window for file","pid":10376}
+{"ts":"2021-04-28T12:47:40.076","sev":"info","k":"prep-window","v":{"browserWindowOptions":{"width":1366,"height":768,"minWidth":740,"minHeight":555,"backgroundColor":"#f8f8f8","title":"Tableau Prep Builder - Trial expires in 2 days","show":false,"useContentSize":false,"fullscreenable":true,"enableLargerThanScreen":false,"webPreferences":{"nodeIntegration":false,"contextIsolation":false,"enableRemoteModule":true,"preload":"C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\resources\\app\\preload.js","webviewTag":true,"allowRunningInsecureContent":false}}},"pid":10376}
+{"ts":"2021-04-28T12:47:40.085","sev":"info","k":"prep-window","v":{"contentSize":[1352,711]},"pid":10376}
+{"ts":"2021-04-28T12:47:40.216","sev":"info","k":"get-user-type","v":"Got user type: 0","pid":10376}
+{"ts":"2021-04-28T12:47:41.236","sev":"info","k":"prep-window","v":"Client ready","pid":10376}
+{"ts":"2021-04-28T12:47:41.238","sev":"info","k":"prep-window","v":"Setting sample flow paths to C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\help\\Samples\\en_US\\Superstore.tflx,C:\\Program Files\\Tableau\\Tableau Prep Builder 2021.1\\help\\Samples\\en_US\\WorldIndicators.tflx","pid":10376}
+{"ts":"2021-04-28T12:47:41.238","sev":"info","k":"prep-window","v":"Opening tflFile: C:\\Users\\chast\\Documents\\My Tableau Prep Repository\\Flows\\Flow1.tfl","pid":10376}
+{"ts":"2021-04-28T12:47:41.239","sev":"info","k":"prep-window","v":"Done handling clientReady event","pid":10376}
+{"ts":"2021-04-28T12:47:41.244","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/autosave/getAvailableDrafts"},"pid":14452}
+{"ts":"2021-04-28T12:47:41.479","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flows/versioning?localFile=C%3A%5CProgram%20Files%5CTableau%5CTableau%20Prep%20Builder%202021.1%5Chelp%5CSamples%5Cen_US%5CSuperstore.tflx"},"pid":14452}
+{"ts":"2021-04-28T12:47:41.543","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":10376}
+{"ts":"2021-04-28T12:47:41.543","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.544","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.550","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":10376}
+{"ts":"2021-04-28T12:47:41.565","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/connections/connections"},"pid":14452}
+{"ts":"2021-04-28T12:47:41.565","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/connections/connections"},"pid":14452}
+{"ts":"2021-04-28T12:47:41.630","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flows/versioning?localFile=C%3A%5CUsers%5Cchast%5CDocuments%5CMy%20Tableau%20Prep%20Repository%5CFlows%5CFlow1.tfl"},"pid":14452}
+{"ts":"2021-04-28T12:47:41.633","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":10376}
+{"ts":"2021-04-28T12:47:41.634","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.634","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.643","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":10376}
+{"ts":"2021-04-28T12:47:41.665","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/extensibility/credentials/pythonSupport","elapsed":0.47453999999925145,"jsonParseTime":0.00007999999979801942},"pid":14452}
+{"ts":"2021-04-28T12:47:41.666","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/extensibility/credentials/rSupport","elapsed":0.47564999999849533,"jsonParseTime":0.000009999999747378752},"pid":14452}
+{"ts":"2021-04-28T12:47:41.668","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/vizportalApi/tableauServerInfo","elapsed":0.46789499999977124,"jsonParseTime":0.00003499999911582563},"pid":14452}
+{"ts":"2021-04-28T12:47:41.670","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/mruFlows","elapsed":0.47471499999846856,"jsonParseTime":0.00007999999979801942},"pid":14452}
+{"ts":"2021-04-28T12:47:41.673","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.674","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:41.691","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/functions","elapsed":0.49874000000090746,"jsonParseTime":0.0012650000007852213},"pid":14452}
+{"ts":"2021-04-28T12:47:41.695","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/autosave/getAvailableDrafts","elapsed":0.45142999999916356,"jsonParseTime":0.000004999999873689376},"pid":14452}
+{"ts":"2021-04-28T12:47:41.696","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/crashReporting/newCrashDumpExists","elapsed":0.49728499999946507,"jsonParseTime":0.000019999999494757503},"pid":14452}
+{"ts":"2021-04-28T12:47:41.699","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/connectivity-utils/getConnectRegistryConnections","elapsed":0.518050000000585,"jsonParseTime":0.00014999999984866008},"pid":14452}
+{"ts":"2021-04-28T12:47:41.728","sev":"info","k":"rest-api-call-end","v":{"method":"DELETE","path":"/api/connections/connections","elapsed":0.1629350000002887,"jsonParseTime":0.00005000000055588316},"pid":14452}
+{"ts":"2021-04-28T12:47:43.336","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/flows/versioning?localFile=C%3A%5CProgram%20Files%5CTableau%5CTableau%20Prep%20Builder%202021.1%5Chelp%5CSamples%5Cen_US%5CSuperstore.tflx","elapsed":1.8571850000007544,"jsonParseTime":0.001489999998739222},"pid":14452}
+{"ts":"2021-04-28T12:47:43.340","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:43.340","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.227","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/cacheOperations/getSemanticRoles","elapsed":3.0381149999993795,"jsonParseTime":0.00007499999992433004},"pid":14452}
+{"ts":"2021-04-28T12:47:44.709","sev":"info","k":"rest-api-call-end","v":{"method":"GET","path":"/api/flows/versioning?localFile=C%3A%5CUsers%5Cchast%5CDocuments%5CMy%20Tableau%20Prep%20Repository%5CFlows%5CFlow1.tfl","elapsed":3.07881499999894,"jsonParseTime":0.0006599999996979022},"pid":14452}
+{"ts":"2021-04-28T12:47:44.730","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations/flows"},"pid":14452}
+{"ts":"2021-04-28T12:47:44.735","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/loomDocValidation"},"pid":14452}
+{"ts":"2021-04-28T12:47:44.740","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":14452}
+{"ts":"2021-04-28T12:47:44.782","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.783","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.829","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":10376}
+{"ts":"2021-04-28T12:47:44.830","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.830","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.843","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":10376}
+{"ts":"2021-04-28T12:47:44.972","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion","elapsed":0.23148000000037428,"jsonParseTime":0.000014999999621068127},"pid":14452}
+{"ts":"2021-04-28T12:47:44.975","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: true","pid":10376}
+{"ts":"2021-04-28T12:47:44.975","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:44.975","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":10376}
+{"ts":"2021-04-28T12:47:45.585","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/flowOperations/flows","elapsed":0.8551950000000943,"jsonParseTime":0.00004000000080850441},"pid":14452}
+{"ts":"2021-04-28T12:47:45.602","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/loomDocValidation","elapsed":0.8662600000006933,"jsonParseTime":0.0004900000003544847},"pid":14452}
+{"ts":"2021-04-28T12:47:55.164","sev":"info","k":"prep-window","v":"Close event received.","pid":10376}
+{"ts":"2021-04-28T12:47:55.164","sev":"info","k":"prep-window","v":"Sending request to close","pid":10376}
+{"ts":"2021-04-28T12:47:55.168","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/mruFlows"},"pid":14452}
+{"ts":"2021-04-28T12:47:55.179","sev":"info","k":"rest-api-call-end","v":{"method":"POST","path":"/api/mruFlows","elapsed":0.011225000000194996,"jsonParseTime":0.000010000001566368155},"pid":14452}
+{"ts":"2021-04-28T12:47:55.180","sev":"info","k":"prep-window","v":"Ready to close","pid":10376}
+{"ts":"2021-04-28T12:47:55.213","sev":"info","k":"app-window-all-closed","v":"","pid":10376}
+{"ts":"2021-04-28T12:47:55.214","sev":"info","k":"app-shutdown","v":"quitApp has been called","pid":10376}
+{"ts":"2021-04-28T12:47:55.215","sev":"info","k":"prep-window-manager","v":"Closing all windows","pid":10376}
+{"ts":"2021-04-28T12:47:55.216","sev":"info","k":"prep-window-manager","v":"Window 3 has closed","pid":10376}
+{"ts":"2021-04-28T12:47:55.222","sev":"info","k":"single-instance-app","v":"Releasing the single instance lock","pid":10376}
+{"ts":"2021-04-28T12:47:55.223","sev":"info","k":"single-instance-app","v":"Single instance lock released","pid":10376}
+{"ts":"2021-04-28T12:47:55.224","sev":"warn","k":"ServiceRegistry","v":"service Symbol(BackendManager) not found in service registry","pid":10376}
+{"ts":"2021-04-28T12:47:55.224","sev":"info","k":"before-quit","v":"","pid":10376}
+{"ts":"2021-04-28T12:47:55.224","sev":"info","k":"will-quit","v":"","pid":10376}
+{"ts":"2021-04-28T12:47:55.225","sev":"info","k":"app-shutdown","v":"quitApp has been called","pid":10376}
+{"ts":"2021-04-28T12:47:55.225","sev":"warn","k":"app-shutdown","v":"quitApp is already in progress, ignoring this call","pid":10376}
+{"ts":"2021-04-28T12:47:55.225","sev":"info","k":"app-exit","v":"Exiting from process.exit","pid":10376}
